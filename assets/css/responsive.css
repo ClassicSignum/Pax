@@ -1,0 +1,137 @@
+@media(max-width: 768px){
+	.header-part .collapse .active a{
+	border: 1px solid #9fabba;
+	border-radius: 20px;
+	padding: 5px 10px;
+	color: #9fabba;
+	display: inline-block;
+}
+.header-part .collapse ul li a{
+	margin-top: 5px;
+	font-size: 15px;
+
+}
+	.header-part .social{
+	margin-top: 8px;
+	margin-left: 5px;
+	width: 39px;
+	/*background: red;*/
+}
+
+.service-part .service-items h1{
+	padding-top: 35px;
+	font-size: 36px;
+	color: #0149a1;
+}
+.service-part .service-items h4{
+	font-size: 20px;
+	color: #5d6981;
+}
+
+.service-part .service-items .ask-button a{
+	font-size: 12px;
+	color: #fff;
+	background: #ff2d55;	
+	padding: 10px 30px;
+	border-radius: 30px;
+}
+
+.hww-part .hww-text h1{
+	font-size: 36px;
+	color: #fff;
+	padding-top: 125px;
+
+}
+.hww-part .hww-text h4{
+	color: #5483bb;
+	font-size: 20px;
+	font-weight: 400;
+	padding-bottom: 112px;
+}
+.hww-part  .ask-button a{
+	color:  #0149a1;
+	background: #fff;
+	padding: 10px 30px;
+	border-radius: 30px;
+	font-weight: bold;
+	font-size: 12px;
+}
+.option-part .carousel-indicators{
+	margin-bottom: 8px;
+}
+
+.option-part .carousel-item{
+	position: relative;
+}
+	.option-part .carousel-caption img{
+	width: 20%;
+	height: 30%;
+
+}
+	.option-part .carousel-caption{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.option-part .carousel-caption h5{
+	font-size: 15px;
+	color: #7c8ca0;
+	padding: 10px 40px 4px;
+	font-style: italic;
+}
+.option-part .carousel-caption p{
+	color: #7c8ca0;
+	font-style: 10px;
+	/*padding-bottom: 100px;*/
+}
+.option-part a i{
+	font-size: 20px;
+	color: #000;
+}
+.hww-part {
+	display: block;
+}
+.team-part .items h1{
+	font-size: 36px;
+	color: #0149a1;
+	padding-top: 40px;
+}
+.team-part .items h4{
+	font-size: 20px;
+	color: #7c8ca0;
+	padding-bottom: 40px;
+}
+.team-part .r-items h1{
+	padding-top: 36px;
+	font-size: 18px;
+	color: #5d6981;
+	padding-bottom: 7px;
+}
+.team-part .r-items p{
+	color: #7c8ca0;
+	font-size: 12px;
+}
+.team-part .ask-button{
+	padding:50px 0px;
+}
+.team-part  .ask-button a{
+	font-size: 12px;
+	color: #fff;
+	background: #ff2d55;	
+	padding: 10px 30px;
+	border-radius: 30px;
+}
+.ct-part .address{
+	padding: 0px;
+}
+.cret-part .cret-items .ask-button a{
+	color: #fff;
+	background: #0149a1;
+	padding: 10px 30px;
+	border-radius: 30px;
+	font-size: 12px;
+}
+
+}
